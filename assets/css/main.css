@@ -2028,7 +2028,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			#header-wrapper {
-				padding: 0;
+				padding: 2em 0;
 			}
 
 			body.homepage #header-wrapper {
