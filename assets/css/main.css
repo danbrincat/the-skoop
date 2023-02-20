@@ -1928,6 +1928,14 @@ input, select, textarea {
 			color: #fff;
 		}
 
+/* Article Content */
+
+	.feature1 .article-content {
+		padding: 0 10px;
+		width: 50%;
+		text-align: left;
+	}
+
 /* Footer */
 
 	#footer {
