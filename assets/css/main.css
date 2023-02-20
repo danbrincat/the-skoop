@@ -1615,6 +1615,7 @@ input, select, textarea {
 	}
 
 		.box.feature1 header {
+			margin: 0;
 		}
 
 			.box.feature1 header.first h2 {
