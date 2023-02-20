@@ -2004,6 +2004,7 @@ input, select, textarea {
 		/* Wrappers */
 
 			#header-wrapper {
+				padding: 0;
 			}
 
 			body.homepage #header-wrapper {
