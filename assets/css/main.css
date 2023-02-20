@@ -221,6 +221,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			#main-wrapper .article-content {
+				width: 100%;
+				padding: 20px;
+			}
+
 		}
 
 		@media screen and (max-width: 736px) {
@@ -1931,8 +1936,6 @@ input, select, textarea {
 /* Article Content */
 
 	#main-wrapper .article-content {
-		margin-left: 
-		padding: 0 10px;
 		width: 50%;
 		margin-left: 50px;
 	}
@@ -2425,7 +2428,6 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: 40px 20px 40px 20px;
 			}
 
 				#banner h2 {
