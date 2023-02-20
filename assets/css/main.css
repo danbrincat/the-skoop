@@ -1931,8 +1931,13 @@ input, select, textarea {
 /* Article Content */
 
 	#main-wrapper .article-content {
+		margin-left: 
 		padding: 0 10px;
 		width: 50%;
+		margin-left: 50px;
+	}
+
+	.article-content p {
 		text-align: left;
 	}
 
