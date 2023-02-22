@@ -1936,11 +1936,13 @@ input, select, textarea {
 
 /* Article Content */
 
-	#main-wrapper .article-content {
-		width: 60%;
-		margin-left: 50px;
+	@media (min-width: 736px) {
+		#main-wrapper .article-content {
+			width: 60%;
+			margin-left: 50px;
+		}
 	}
-	
+
 	.article-content p {
 		text-align: left;
 	}
