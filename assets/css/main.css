@@ -1970,6 +1970,11 @@ input, select, textarea {
 		vertical-align: middle;
 	}
 
+	.fa-rocketchat {
+		padding-right: 10px;
+		text-decoration-line: none;
+	}
+
 /* Footer */
 
 	#footer {
