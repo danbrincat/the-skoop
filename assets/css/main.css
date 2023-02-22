@@ -1961,10 +1961,12 @@ input, select, textarea {
 
 	.article-content header #author {
 		vertical-align: middle;
+		display: inline-block;
 	}
 
 	#author .author-pic {
 		border-radius: 50%;
+		margin-right: 10px;
 	}
 
 /* Footer */
