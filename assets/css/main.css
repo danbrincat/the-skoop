@@ -1967,6 +1967,7 @@ input, select, textarea {
 	#author .author-pic {
 		border-radius: 50%;
 		margin-right: 10px;
+		vertical-align: middle;
 	}
 
 /* Footer */
