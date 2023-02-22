@@ -1,3 +1,6 @@
+document.getElementById('topNav').innerHTML = header;
+document.getElementById('bottomFooter').innerHTML = footer;
+
 const header = '
 <header id="header">
 	<div class="inner">
