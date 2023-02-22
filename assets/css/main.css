@@ -1956,6 +1956,15 @@ input, select, textarea {
 	header {
 		font-size: 1em;
     	line-height: 1.5;
+    	text-align: left;
+	}
+
+	.article-content header #author {
+		vertical-align: middle;
+	}
+
+	#author .author-pic {
+		border-radius: 50%;
 	}
 
 /* Footer */
