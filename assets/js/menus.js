@@ -1,5 +1,4 @@
-const header = '
-<header id="header">
+const header = '<header id="header">
 	<div class="inner">
 
 		<!-- Logo -->
