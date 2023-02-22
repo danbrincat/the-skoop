@@ -1961,6 +1961,7 @@ input, select, textarea {
 	.article-content header #author {
 		vertical-align: middle;
 		display: inline-block;
+		margin-bottom: 20px;
 	}
 
 	#author .author-pic {
