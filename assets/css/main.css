@@ -1266,6 +1266,7 @@ input, select, textarea {
 			display: block;
 			border-top: solid 1px #dbdbdb;
 			height: 8px;
+			margin-top: 10px;
 		}
 
 		header.major h2, header.major h3 {
@@ -1979,9 +1980,9 @@ input, select, textarea {
 		float: right;
 	}
 
-	#social-bttns .fab, .far {
+	#social-bttns .fab, .far, .fas {
     	cursor: pointer;
-    	font-size: 2em;
+    	font-size: 1em;
     	padding-left: 10px;
 	}
 
