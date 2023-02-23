@@ -1975,8 +1975,14 @@ input, select, textarea {
 		text-decoration-line: none;
 	}
 
-	.fab.fa-twitter.social-bttn {
+	#social-bttns {
+		float: right;
+	}
+
+	#social-bttns .fab, .far {
     	cursor: pointer;
+    	font-size: 2em;
+    	padding-left: 10px;
 	}
 
 /* Footer */
