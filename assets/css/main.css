@@ -1859,7 +1859,7 @@ input, select, textarea {
 		background: url("images/bg01.png"), url("../../images/header.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
-		padding: 3em 0;
+		padding: 2em 0;
 	}
 
 	#main-wrapper {
