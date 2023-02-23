@@ -9,16 +9,7 @@
 
 		<!-- adsense code -->
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9737588079738072" crossorigin="anonymous"></script>
-     	<!-- adsense code end -->
-     	<script>
-     		const pageUrl = window.location.href;
-     		var pageHeader = document.getElementById("heading").textContent;
-     		var pageBanner = document.getElementById("bannerImage").src;
-     		function copyLink() {
-     			navigator.clipboard.writeText(pageUrl);
-     			alert("Link Copied!");
-     		};
-     	</script>	
+     	<!-- adsense code end -->	
 	</head>
 	<body class="homepage is-preload">
 		<div id="page-wrapper">
@@ -232,6 +223,15 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+	    <script>
+     		const pageUrl = window.location.href;
+     		var pageHeader = document.getElementById("heading").textContent;
+     		var pageBanner = document.getElementById("bannerImage").src;
+     		function copyLink() {
+     			navigator.clipboard.writeText(pageUrl);
+     			alert("Link Copied!");
+     		};
+     	</script>
 	<script id="dsq-count-scr" src="//skoop-1.disqus.com/count.js" async></script>
 	</body>
 </html>
