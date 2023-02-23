@@ -11,7 +11,7 @@ document.write('\
 							<ul class="divided">\
 								<li><a href="#">Privacy Policy</a></li>\
 								<li><a href="#">Cookie Policy</a></li>\
-								<li><a href="#">Semper mod quisturpis nisi</a></li>\
+								<li><a href="#">Comment Policy</a></li>\
 								<li><a href="#">Consequat etiam phasellus</a></li>\
 							</ul>\
 						</section>\
