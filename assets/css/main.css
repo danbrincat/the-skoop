@@ -1386,6 +1386,7 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			border-radius: 8px;
+			max-height: 218px;
 		}
 
 		.image:before {
@@ -1409,7 +1410,6 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 0.5em 0;
-			max-height: 218px;
 		}
 
 		.image.left {

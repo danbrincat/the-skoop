@@ -1,4 +1,4 @@
-document.write('\	
+document.write('\
 	<div class="wrapper style3">\
 		<div class="inner">\
 			<div class="container">\
