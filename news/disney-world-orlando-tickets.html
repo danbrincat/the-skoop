@@ -228,8 +228,10 @@
      		var pageHeader = document.getElementById("heading").textContent;
      		var pageBanner = document.getElementById("bannerImage").src;
      		function copyLink() {
-     			navigator.clipboard.writeText(pageUrl);
-     			alert("Link Copied!");
+     			navigator.clipboard.writeText(pageUrl).then(function(x) {
+			      alert("Link copied to clipboard!");
+			    });
+     			//alert("Link Copied!");
      		};
      	</script>
 	<script id="dsq-count-scr" src="//skoop-1.disqus.com/count.js" async></script>
