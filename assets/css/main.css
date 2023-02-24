@@ -185,7 +185,7 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p, ul, ol, dl, table {
+	p, ul, ol, dl {
 		margin-bottom: 2em;
 	}
 
@@ -1937,6 +1937,19 @@ input, select, textarea {
 		div#searchBox {
 		    max-width: 300px;
 		    display: inline-block;
+		}
+
+		#searchBox form.gsc-search-box {
+			margin: 0;
+		}
+
+		#searchBox table.gsc-search-box {
+			margin: 0;
+		}
+
+		#searchBox .gsc-control-cse {
+			background-color: transparent;
+			border: none;
 		}
 
 /* Article Content */
