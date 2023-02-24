@@ -1965,6 +1965,10 @@ input, select, textarea {
 			background-color: transparent;
 		}
 
+		#searchBox table td input {
+			padding: 0 10px;
+		}
+
 /* Article Content */
 
 	@media (min-width: 736px) {
