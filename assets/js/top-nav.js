@@ -30,7 +30,9 @@ document.write('\
 					<li><a href="left-sidebar.html">Left Sidebar</a></li>\
 					<li><a href="right-sidebar.html">Right Sidebar</a></li>\
 					<script async src="https://cse.google.com/cse.js?cx=012922c0c43404565"></script>\
-					<div class="gcse-search"></div>\
+					<div id="searchBox">\
+						<div class="gcse-search"></div>\
+					</div>\
 				</ul>\
 			</nav>\
 \

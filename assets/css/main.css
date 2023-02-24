@@ -1934,6 +1934,11 @@ input, select, textarea {
 			color: #fff;
 		}
 
+		div#searchBox {
+		    max-width: 300px;
+		    display: inline-block;
+		}
+
 /* Article Content */
 
 	@media (min-width: 736px) {
