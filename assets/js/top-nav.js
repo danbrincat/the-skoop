@@ -4,12 +4,12 @@ document.write('\
 	<div class="inner">\
 \
 		<!-- Logo -->\
-		<h1><a href="index.html" id="logo">The Skoop!</a></h1>\
+		<h1><a href="/" id="logo">The Skoop!</a></h1>\
 \
 		<!-- Nav -->\
 			<nav id="nav">\
 				<ul>\
-					<li class="current_page_item"><a href="index.html">Home</a></li>\
+					<li class="current_page_item"><a href="/">Home</a></li>\
 					<li>\
 						<a href="#">Dropdown</a>\
 						<ul>\
@@ -29,7 +29,8 @@ document.write('\
 					</li>\
 					<li><a href="left-sidebar.html">Left Sidebar</a></li>\
 					<li><a href="right-sidebar.html">Right Sidebar</a></li>\
-					<li><a href="no-sidebar.html">No Sidebar</a></li>\
+					<script async src="https://cse.google.com/cse.js?cx=012922c0c43404565"></script>\
+					<div class="gcse-search"></div>\
 				</ul>\
 			</nav>\
 \
