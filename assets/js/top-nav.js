@@ -27,7 +27,7 @@ document.write('\
 							<li><a href="#">Veroeros feugiat</a></li>\
 						</ul>\
 					</li>\
-					<li><a href="left-sidebar.html">Quizes</a></li>\
+					<li><a href="left-sidebar.html">Quizzes</a></li>\
 					<script async src="https://cse.google.com/cse.js?cx=012922c0c43404565"></script>\
 					<div id="searchBox">\
 						<div class="gcse-search"></div>\
