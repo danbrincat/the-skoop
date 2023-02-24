@@ -11,7 +11,7 @@ document.write('\
 				<ul>\
 					<li class="current_page_item"><a href="/">Home</a></li>\
 					<li>\
-						<a href="#">Dropdown</a>\
+						<a href="#">Topics</a>\
 						<ul>\
 							<li><a href="#">Lorem ipsum dolor</a></li>\
 							<li><a href="#">Magna phasellus</a></li>\
@@ -27,8 +27,7 @@ document.write('\
 							<li><a href="#">Veroeros feugiat</a></li>\
 						</ul>\
 					</li>\
-					<li><a href="left-sidebar.html">Left Sidebar</a></li>\
-					<li><a href="right-sidebar.html">Right Sidebar</a></li>\
+					<li><a href="left-sidebar.html">Quizes</a></li>\
 					<script async src="https://cse.google.com/cse.js?cx=012922c0c43404565"></script>\
 					<div id="searchBox">\
 						<div class="gcse-search"></div>\

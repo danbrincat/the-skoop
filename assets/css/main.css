@@ -1966,7 +1966,7 @@ input, select, textarea {
 		}
 
 		#searchBox table td input {
-			padding: 0 10px;
+			padding: 0 10px!important;
 		}
 
 /* Article Content */
