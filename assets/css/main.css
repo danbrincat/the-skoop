@@ -1939,6 +1939,10 @@ input, select, textarea {
 		    display: inline-block;
 		}
 
+		#searchBox .gsc-control-cse {
+			padding: 0;
+		}
+
 		#searchBox form.gsc-search-box {
 			margin: 0;
 		}
@@ -1950,6 +1954,15 @@ input, select, textarea {
 		#searchBox .gsc-control-cse {
 			background-color: transparent;
 			border: none;
+		}
+
+		#searchBox .gsc-input-box {
+			border: none;
+			background: transparent;
+		}
+
+		#searchBox table td {
+			background-color: transparent;
 		}
 
 /* Article Content */
