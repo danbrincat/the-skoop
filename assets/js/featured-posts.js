@@ -81,4 +81,4 @@ document.write('\
 			</div>\
 		</div>\
 	</div>\
-')
+');
