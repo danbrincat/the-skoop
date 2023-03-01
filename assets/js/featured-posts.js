@@ -11,15 +11,13 @@ document.write('\
 \
 								<!-- Excerpt -->\
 									<article class="box excerpt">\
-										<a href="#" class="image left"><img src="images/pic04.jpg" alt="" /></a>\
+										<a href="#" class="image left"><img src="https://the-skoop.com/news/assets/images/disney-world-orlando-tickets.jpg" alt="Disney Land Castle Spires" /></a>\
 										<div>\
 											<header>\
-												<span class="date">July 24</span>\
-												<h3><a href="#">Repairing a hyperspace window</a></h3>\
+												<span class="date">Feb 21</span>\
+												<h3><a href="/news/disney-world-orlando-tickets">Visiting Disney World Orlando - What are the best tickets to purchase?</a></h3>\
 											</header>\
-											<p>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus\
-											semper mod quisturpis nisi consequat etiam lorem. Phasellus quam turpis,\
-											feugiat et sit amet ornare in, hendrerit in lectus semper mod quis eget mi dolore.</p>\
+											<p>Find which Disney World Orlando tickets are best for you to purchase for your visit.</p>\
 										</div>\
 									</article>\
 \
