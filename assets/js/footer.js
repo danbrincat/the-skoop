@@ -51,6 +51,7 @@ document.write('\
 							It&#x27;s <a href="http://html5up.net/license/">Creative Commons Attribution</a>\
 							licensed so use it for any personal or commercial project (just credit us\
 							for the design!).</p>\
+							<p>This site uses a template based on <strong>ZeroFour</strong> by <a href="http://twitter.com/ajlkn">AJ</a>.</p>\
 							<a href="#" class="button alt icon solid fa-arrow-circle-right">Learn More</a>\
 						</section>\
 \
