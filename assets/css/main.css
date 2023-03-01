@@ -1387,6 +1387,7 @@ input, select, textarea {
 			width: 100%;
 			border-radius: 8px;
 			max-height: 218px;
+			object-fit: cover;
 		}
 
 		.image:before {
