@@ -1661,6 +1661,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	.feature2 p {
+		text-align: left;
+	}
+
 	.box.article-list article {
 		border-bottom: solid 1px #dbdbdb;
 		margin: 0 0 2.75em 0;
@@ -1860,7 +1864,6 @@ input, select, textarea {
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("images/bg01.png"), url("../../images/header.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
 		padding: 2em 0;

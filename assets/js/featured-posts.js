@@ -11,7 +11,7 @@ document.write('\
 \
 								<!-- Excerpt -->\
 									<article class="box excerpt">\
-										<a href="#" class="image left"><img src="https://the-skoop.com/news/assets/images/disney-world-orlando-tickets.jpg" alt="Disney Land Castle Spires" /></a>\
+										<a href="/news/disney-world-orlando-tickets" class="image left"><img src="https://the-skoop.com/news/assets/images/disney-world-orlando-tickets.jpg" alt="Disney Land Castle Spires" /></a>\
 										<div>\
 											<header>\
 												<span class="date">Feb 21</span>\
